@@ -1,6 +1,8 @@
 👋 Hi, I'm Eka W. Prasetya
+```bash
 🚀 **DevSecOps Engineer** | **AI+ & Python Enabled**  
 🔒 Focused on **Automation, Security, CI/CD, IaC, and Cloud Security**  
+```
 ---
 ## 🛠️ Tech Stack & Expertise  
 ### 🚀 Languages & Frameworks  
