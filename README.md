@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Eka W. Prasetya
 🚀 **DevSecOps Engineer** | **AI+ & Python Enabled**  
 🔒 Focused on **Automation, Security, CI/CD, IaC, and Cloud Security**  
-
 ---
 ## 🛠️ Tech Stack & Expertise  
 ### 🚀 Languages & Frameworks  
@@ -40,11 +39,9 @@
 - ☁️ **Infrastructure as Code** – Building and securing cloud-native infrastructure.  
 - 🛡️ **Cloud Security** – Ensuring compliance and best practices in cloud environments.  
 - 🤖 **AI + Security Automation** – Leveraging Python & AI for intelligent SecOps.  
----
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ekawipa&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ekawipa&layout=compact&theme=tokyonight)  
----
 ## 📫 Let's Connect  
 - 🌐 [GitHub](https://github.com/ekawipa)  
 - 💼 [LinkedIn](https://linkedin.com/in/ekawprasetya)
