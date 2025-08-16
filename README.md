@@ -3,6 +3,7 @@
 🚀 **DevSecOps Engineer** | **AI+ & Python Enabled**  
 🔒 Focused on **Automation, Security, CI/CD, IaC, and Cloud Security**  
 ```
+```bash
 ### 🛠️ Tech Stack & Expertise  
 #### 🚀 Languages & Frameworks  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
@@ -20,6 +21,7 @@
 #### ☁️ Cloud & DevOps [] ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 #### 🔒 Security & Networking [] ![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white) ![Juniper](https://img.shields.io/badge/Juniper-0062AD?style=for-the-badge&logo=juniper-networks&logoColor=white) ![Fortigate](https://img.shields.io/badge/Fortigate-EE3124?style=for-the-badge&logo=fortinet&logoColor=white) ![Wazuh](https://img.shields.io/badge/Wazuh-005CFF?style=for-the-badge&logo=wazuh&logoColor=white) ![Blue Team Security](https://img.shields.io/badge/Blue_Team_Security-0A66C2?style=for-the-badge&logo=security&logoColor=white)
 #### 🎨 Others [] ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+```
 #### 📌 Focus Areas 
 ```bash
 - 🔄 **CI/CD Pipelines** – Automating secure build, test, and deployment workflows.  
