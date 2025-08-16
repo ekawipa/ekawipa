@@ -3,8 +3,8 @@
 🚀 **DevSecOps Engineer** | **AI+ & Python Enabled**  
 🔒 Focused on **Automation, Security, CI/CD, IaC, and Cloud Security**  
 ```
-## 🛠️ Tech Stack & Expertise  
-## 🚀 Languages & Frameworks  
+#### 🛠️ Tech Stack & Expertise  
+#### 🚀 Languages & Frameworks  
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) 
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) 
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white) 
